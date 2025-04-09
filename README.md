@@ -2,11 +2,24 @@
 
 This repository supports the research article:
 **"Sustainable AI infrastructure: A scenario-based forecast of water footprint under uncertainty"**  
-by Manuel Herrera, Xiang Xie, Andrea Menapace, Ariele Zanfei, Bruno M. Brentan (2025).
+by Manuel Herrera, Xiang Xie, Andrea Menapace, Ariele Zanfei, Bruno M. Brentan (2025)
 
 ## 📌 Overview
 
 As AI workloads grow globally, so does the environmental footprint of the data centres that support them, particularly water consumption. This repository provides the code, data, and visualisations used in our Bayesian scenario-based forecasts of water demand from AI data centres under different global growth and efficiency pathways.
+
+## 📁 Repository Structure
+
+📂 data/
+    └── ai_datacentres_locations.csv       # Data centre locations with water stress levels
+    └── parameters_scenarios.csv           # Prior assumptions and scenario settings
+
+📂 code/
+    └── model_forecasting.py               # Main Bayesian Monte Carlo script
+    └── utils.py                           # Supporting functions
+
+📂 visualisations/
+    └── global_map_ai_water.html           # Interactive HTML map of data centre water risk
 
 ## 🧮 Bayesian Forecasting Model
 
@@ -21,5 +34,7 @@ The HTML map visualises the global distribution of data centres overlaid with re
 - Python 3.9+
 - `pandas`, `numpy`, `matplotlib`, `plotly`, `scipy`
 
-For questions or collaboration inquiries, contact:
-Manuel Herrera – manuel.herrera@newcastle.ac.uk
+## ✉️ Contact
+
+For questions or collaboration inquiries, contact:  
+**Manuel Herrera** – manuel.herrera@newcastle.ac.uk
