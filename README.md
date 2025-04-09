@@ -11,12 +11,11 @@ As AI workloads grow globally, so does the environmental footprint of the data c
 ## 📁 Repository Structure
 
 📂 data/  
-    └── ai_datacentres_locations.csv       # Data centre locations with water stress levels  
-    └── parameters_scenarios.csv           # Prior assumptions and scenario settings  
+    └── DataCenters_WaterStress.csv       # Data centre locations with water stress levels   
 
-📂 code/  
-    └── model_forecasting.py               # Main Bayesian Monte Carlo script  
-    └── utils.py                           # Supporting functions  
+📂 code/  # Jupyter notebooks with code  
+    └── Water4AI_main_analysis.ipynb          # Main Bayesian Monte Carlo script  
+    └── Water4AI_sensitivity_analysis.ipynb   # Supporting functions  
 
 📂 visualisations/  
     └── global_map_ai_water.html           # Interactive HTML map of data centre water risk
