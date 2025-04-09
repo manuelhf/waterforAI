@@ -13,14 +13,15 @@ As AI workloads grow globally, so does the environmental footprint of the data c
 ## 📁 Repository Structure
 
 📂 data/  
-    └── DataCenters_WaterStress.csv       # Data centre locations with water stress levels   
+    └── DataCenters_WaterStress.csv  &nbsp;&nbsp;&nbsp;&nbsp;     # Data centre locations with water stress levels   
 
 📂 code/  # Jupyter notebooks with code  
-    └── Water4AI_main_analysis.ipynb          # Main Bayesian Monte Carlo script  
-    └── Water4AI_sensitivity_analysis.ipynb   # Supporting functions  
+    └── Water4AI_main_analysis.ipynb        &nbsp;&nbsp;&nbsp;&nbsp;  # Main Bayesian Monte Carlo script  
+    └── Water4AI_sensitivity_analysis.ipynb  &nbsp;&nbsp;&nbsp;&nbsp; # Supporting functions
+    └── Worldmap_AI_water.ipynb            &nbsp;&nbsp;&nbsp;&nbsp;   # Worldmap visualisation
 
 📂 visualisations/  
-    └── global_map_ai_water.html           # Interactive HTML map of data centre water risk
+    └── global_map_ai_water.html    &nbsp;&nbsp;&nbsp;&nbsp;       # Interactive HTML map of data centre water risk
 
 ## 🧮 Bayesian Forecasting Model
 
