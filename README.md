@@ -2,7 +2,7 @@
 
 This repository supports the research article:  
 **"Sustainable AI infrastructure: A scenario-based forecast of water footprint under uncertainty"**  
-by Manuel Herrera, Xiang Xie, Andrea Menapace, Ariele Zanfei, Bruno M. Brentan (2025)
+by Manuel Herrera, Xiang Xie, Andrea Menapace, Ariele Zanfei, Bruno M. Brentan (2025); submitted to the Journal of Cleaner Production.
 
 ## 📌 Overview
 
