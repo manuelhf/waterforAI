@@ -11,18 +11,18 @@ As AI workloads grow globally, so does the environmental footprint of the data c
 ![Data centres and water stress](visualisations/worldmap_w4AI.png)
 
 ## 📁 Repository Structure
-
+<pre>
 📂 data/  
-    └── DataCenters_WaterStress.csv  &nbsp;&nbsp;&nbsp;&nbsp;     # Data centre locations with water stress levels   
+    └── DataCenters_WaterStress.csv           # Data centre locations with water stress levels   
 
-📂 code/  # Jupyter notebooks with code  
-    └── Water4AI_main_analysis.ipynb        &nbsp;&nbsp;&nbsp;&nbsp;  # Main Bayesian Monte Carlo script  
-    └── Water4AI_sensitivity_analysis.ipynb  &nbsp;&nbsp;&nbsp;&nbsp; # Supporting functions
-    └── Worldmap_AI_water.ipynb            &nbsp;&nbsp;&nbsp;&nbsp;   # Worldmap visualisation
+📂 code/  
+    └── Water4AI_main_analysis.ipynb          # Main Bayesian Monte Carlo script  
+    └── Water4AI_sensitivity_analysis.ipynb   # Supporting functions  
+    └── Worldmap_AI_water.ipynb               # Worldmap visualisation
 
 📂 visualisations/  
-    └── global_map_ai_water.html    &nbsp;&nbsp;&nbsp;&nbsp;       # Interactive HTML map of data centre water risk
-
+    └── global_map_ai_water.html              # Interactive HTML map of data centre water risk
+</pre>
 ## 🧮 Bayesian Forecasting Model
 
 The model estimates operational and embodied water demand from AI data centres globally, using a Monte Carlo simulation with 10,000 iterations. It is scenario-based (BAU, Moderate, Sustainable) and includes sensitivity analysis to WUE, PUE, EWIF, and EWU.
