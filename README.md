@@ -32,7 +32,7 @@ The HTML map visualises the global distribution of data centres overlaid with re
 
 ## 🔧 Requirements
 
-- Python 3.9+
+- Python 3.7 or higher (tested with 3.9)
 - `pandas`, `numpy`, `matplotlib`, `plotly`, `scipy`
 
 ## ✉️ Contact
