@@ -8,7 +8,7 @@ by Manuel Herrera, Xiang Xie, Andrea Menapace, Ariele Zanfei, Bruno M. Brentan (
 
 As AI workloads grow globally, so does the environmental footprint of the data centres that support them, particularly water consumption. This repository provides the code, data, and visualisations used in our Bayesian scenario-based forecasts of water demand from AI data centres under different global growth and efficiency pathways.
 
-![Data centres and water stress](visualisations/worldmap.png)
+![Data centres and water stress](visualisations/worldmap_4AI.png)
 
 ## 📁 Repository Structure
 
