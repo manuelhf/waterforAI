@@ -10,8 +10,6 @@ As AI workloads grow globally, so does the environmental footprint of the data c
 
 ![Data centres and water stress](visualisations/worldmap.png)
 
-<img src="visualisations/worldmap.png" alt="Data centres and water stress" width="60%"/>
-
 ## 📁 Repository Structure
 
 📂 data/  
