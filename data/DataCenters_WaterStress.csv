@@ -1,1 +1,165 @@
-
+Country,Data Centers,Water Stress Level
+USA,3649,Medium-High
+Germany,417,Low
+United Kingdom,404,Low
+China,346,Medium-High
+Canada,263,Low
+India,259,High
+France,254,Low
+Australia,253,Medium
+The Netherlands,191,Low
+Japan,180,Medium
+Russia,173,Low
+Brazil,170,Medium
+Italy,163,Medium
+Spain,152,High
+Indonesia,138,Medium
+Switzerland,109,Low
+Malaysia,101,Medium
+Ireland,99,Low
+Sweden,95,Low
+Hong Kong,85,High
+Poland,83,Low
+Turkey,82,High
+Singapore,69,Extremely High
+Norway,64,Low
+Chile,62,Medium-High
+Romania,59,Medium
+South Korea,58,High
+Mexico,56,High
+Denmark,55,Low
+Israel,55,Extremely High
+New Zealand,54,Low
+Finland,50,Low
+South Africa,49,High
+Czech Republic,49,Medium
+Belgium,47,Low
+Thailand,45,Medium
+Austria,44,Low
+Portugal,41,Medium-High
+Colombia,38,Medium
+Ukraine,37,Medium
+Saudi Arabia,36,Extremely High
+United Arab Emirates,32,Extremely High
+Argentina,31,Medium
+Bulgaria,30,Medium
+Philippines,23,Medium
+Vietnam,23,Medium
+Latvia,22,Low
+Pakistan,22,High
+Taiwan,20,High
+Slovenia,20,Low
+Iran,20,Extremely High
+Greece,19,Medium-High
+Kenya,18,High
+Cyprus,18,Extremely High
+Nigeria,16,High
+Hungary,16,Medium
+Peru,15,Medium
+Oman,15,Extremely High
+Croatia,15,Medium
+Egypt,14,High
+Lithuania,14,Low
+Panama,14,Medium
+Bangladesh,13,Unknown
+Slovakia,13,Unknown
+Serbia,13,Unknown
+Luxembourg,13,Unknown
+Estonia,12,Unknown
+Iceland,12,Unknown
+Qatar,11,Unknown
+Costa Rica,10,Unknown
+Cambodia,10,Unknown
+Mauritius,10,Unknown
+Ecuador,9,Unknown
+Uruguay,9,Unknown
+Puerto Rico,8,Unknown
+Angola,8,Unknown
+Jordan,8,Unknown
+Macedonia,7,Unknown
+Ghana,7,Unknown
+Malta,7,Unknown
+Tanzania,6,Unknown
+Nepal,6,Unknown
+Moldova,6,Unknown
+Paraguay,6,Unknown
+Isle of Man,6,Unknown
+Venezuela,6,Unknown
+Libya,6,Unknown
+Guatemala,5,Unknown
+Bolivia,5,Unknown
+Bahrain,5,Unknown
+Myanmar,5,Unknown
+Morocco,5,Unknown
+Ethiopia,5,Unknown
+Ivory Coast,5,Unknown
+Algeria,5,Unknown
+Jersey,5,Unknown
+Senegal,5,Unknown
+DR Congo,4,Unknown
+Kazakhstan,4,Unknown
+Honduras,4,Unknown
+Djibouti,4,Unknown
+Bahamas,4,Unknown
+Reunion,4,Unknown
+Georgia,4,Unknown
+Liechtenstein,4,Unknown
+Kuwait,4,Unknown
+Gibraltar,4,Unknown
+Uzbekistan,3,Unknown
+El Salvador,3,Unknown
+New Caledonia,3,Unknown
+Tunisia,3,Unknown
+Bosnia and Herzegovina,3,Unknown
+Zambia,3,Unknown
+Mozambique,3,Unknown
+Uganda,3,Unknown
+Azerbaijan,3,Unknown
+Nicaragua,3,Unknown
+Botswana,3,Unknown
+Guernsey,3,Unknown
+Guam,2,Unknown
+Kyrgyzstan,2,Unknown
+Belarus,2,Unknown
+Armenia,2,Unknown
+Lebanon,2,Unknown
+Namibia,2,Unknown
+Rwanda,2,Unknown
+Suriname,2,Unknown
+Maldives,2,Unknown
+Laos,2,Unknown
+Sri Lanka,2,Unknown
+Afghanistan,2,Unknown
+Cameroon,2,Unknown
+Trinidad and Tobago,2,Unknown
+Bermuda,2,Unknown
+Cayman Islands,2,Unknown
+Greenland,2,Unknown
+Madagascar,2,Unknown
+Monaco,2,Unknown
+Dominican Republic,1,Unknown
+Papua New Guinea,1,Unknown
+Republic of the Congo,1,Unknown
+Iraq,1,Unknown
+Albania,1,Unknown
+Bhutan,1,Unknown
+Burkina Faso,1,Unknown
+Guinea,1,Unknown
+Palestine,1,Unknown
+French Guiana,1,Unknown
+Mayotte,1,Unknown
+Mongolia,1,Unknown
+Brunei,1,Unknown
+Macau,1,Unknown
+Netherlands Antilles,1,Unknown
+Curacao,1,Unknown
+Eswatini,1,Unknown
+French Polynesia,1,Unknown
+Jamaica,1,Unknown
+Kosovo,1,Unknown
+Solomon Islands,1,Unknown
+Sudan,1,Unknown
+Togo,1,Unknown
+Zimbabwe,1,Unknown
+Somalia,1,Unknown
+US Virgin Islands,1,Unknown
