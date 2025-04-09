@@ -17,7 +17,7 @@ As AI workloads grow globally, so does the environmental footprint of the data c
 
 📂 code/  
     └── Water4AI_main_analysis.ipynb          # Main Bayesian Monte Carlo script  
-    └── Water4AI_sensitivity_analysis.ipynb   # Supporting functions  
+    └── Water4AI_sensitivity_plot.ipynb   # Supporting functions  
     └── Worldmap_AI_water.ipynb               # Worldmap visualisation
 
 📂 visualisations/  
